@@ -116,3 +116,4 @@ public class Inverted_Index extends Configured implements Tool {
 		}
 	}
 }
+
