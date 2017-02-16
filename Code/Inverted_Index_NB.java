@@ -119,3 +119,4 @@ public class Inverted_Index_NB extends Configured implements Tool {
 		}
 	}
 }
+
